@@ -26,7 +26,7 @@ def JSONUtil(myData):
 #print (jsonparam)
 #len=jsonparam['recLen']
 #print ("The length of JSON is %s"%(len))
-#print (JSONUtil(myData))
+print (JSONUtil(myData))
 #len=
 # stored in dict and u can read as you want 
 #print(jsonParam[0,'alarm_type'])
